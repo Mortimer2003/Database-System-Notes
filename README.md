@@ -1,5 +1,6 @@
 # Database-System-Notes
 数据库系统学习笔记：https://mortimer-workspace.notion.site/0398f69e5aca405685892ce2897df1f4?pvs=4
+![image](https://github.com/Mortimer2003/Database-System-Notes/assets/98103203/b307a469-071f-41b5-b8d0-226cdae4a69b)
 
 其他科目笔记：笔记合集
 
